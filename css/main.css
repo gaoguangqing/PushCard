@@ -1,0 +1,26 @@
+body{
+	background: #ccc;
+}
+
+		h1{
+			color: blue;
+		}
+		.group{
+			width:100%;
+			height: 25%;
+		}
+		img{
+			width:100%;
+			height: 100%;
+		}
+		.checkbox{
+		  float:left;
+		 width:25%;
+		}
+		
+		
+		.isselected
+		{
+			background: red;
+		}
+	
